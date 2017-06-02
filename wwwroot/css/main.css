@@ -1,0 +1,144 @@
+@charset "UTF-8";
+body {
+  height: 100%;
+  margin: 0; }
+
+html {
+  height: 100%;
+  box-sizing: border-box; }
+
+*, *::before, *::after {
+  box-sizing: inherit; }
+
+h1,
+h2,
+h3,
+h4,
+p,
+blockquote,
+dd,
+dl,
+dt,
+fieldset,
+figure,
+legend,
+ol,
+ul {
+  margin: 0;
+  padding: 0; }
+
+main,
+li {
+  display: block; }
+
+h1,
+h2,
+h3,
+h4 {
+  font-size: inherit; }
+
+strong {
+  font-weight: bold; }
+
+a,
+button,
+[type='submit'] {
+  color: inherit;
+  -webkit-transition: .3s;
+  transition: .3s; }
+
+button,
+[type='submit'] {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  padding: 0; }
+
+fieldset {
+  border-color: inherit;
+  border-style: none;
+  border-width: 0; }
+
+img {
+  border: 0;
+  height: auto;
+  max-width: 100%; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.hide {
+  display: none;
+  visibility: hidden; }
+
+.off-screen {
+  height: 1px;
+  left: -999em;
+  overflow: hidden;
+  position: absolute;
+  width: 1px; }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+
+h2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    color: black;
+    padding: 0px 0px 30px 0px;
+}
+
+li {
+    float: left;
+    width: 25%;
+    text-align: left;
+    /*border: 1pt solid red*/
+}
+
+li a {
+    display: inline-block;
+    color: black;
+    text-align: left;
+    padding: 0px 0px 70px 0px;
+    text-decoration: none;
+    width: 100%;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.menu-item-home, .header-home {
+    background-color:  #588c7e ;
+}
+
+.menu-item-contact, .header-contact {
+    background-color:  #f2e394 ;
+}
+
+.menu-item-about, .header-about {
+    background-color:  #f2ae72;
+}
+
+.menu-item-gallery, .header-gallery {
+    background-color: #d96459 ;
+}
+
+main {
+    background: linear-gradient(to bottom, #FFFFFF 0%, #f2ae72 100%);
+    
+}
+
+footer {
+  position:absolute;
+}

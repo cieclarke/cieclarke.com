@@ -1,0 +1,10 @@
+/Users/cieclarke/Projects/cieclarke.com/bin/Debug/netcoreapp1.1/cieclarke.com.db
+/Users/cieclarke/Projects/cieclarke.com/bin/Debug/netcoreapp1.1/cieclarke.com.deps.json
+/Users/cieclarke/Projects/cieclarke.com/bin/Debug/netcoreapp1.1/cieclarke.com.runtimeconfig.json
+/Users/cieclarke/Projects/cieclarke.com/bin/Debug/netcoreapp1.1/cieclarke.com.runtimeconfig.dev.json
+/Users/cieclarke/Projects/cieclarke.com/bin/Debug/netcoreapp1.1/cieclarke.com.dll
+/Users/cieclarke/Projects/cieclarke.com/bin/Debug/netcoreapp1.1/cieclarke.com.pdb
+/Users/cieclarke/Projects/cieclarke.com/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/cieclarke/Projects/cieclarke.com/obj/Debug/netcoreapp1.1/cieclarke.com.AssemblyInfo.cs
+/Users/cieclarke/Projects/cieclarke.com/obj/Debug/netcoreapp1.1/cieclarke.com.dll
+/Users/cieclarke/Projects/cieclarke.com/obj/Debug/netcoreapp1.1/cieclarke.com.pdb

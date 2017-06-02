@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - cieclarke.com</title>
+
+    <environment names="Development">
+        <link rel="stylesheet" href="~/css/main.css" />
+    </environment>
+    <environment names="Staging,Production">
+       <link rel="stylesheet" href="~/css/main.css" />
+    </environment>
+</head>
+<body>   
+    <header>
+        <nav>
+            <ul>
+                <li class="menu-item-home"><a href="#Ar">H</a></li>
+                <li class="menu-item-gallery"><a href="#G">G</a></li>
+                <li class="menu-item-about"><a href="#Ab">Ab</a></li>
+                <li class="menu-item-contact"><a href="#C">C</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1 class="off-screen">cieclarke</h1>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>&copy; 2017 - cieclarke.com</p>
+    </footer>
+</body>
+</html>
